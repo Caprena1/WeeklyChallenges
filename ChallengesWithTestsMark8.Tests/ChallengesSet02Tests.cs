@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using Xunit;
 
@@ -35,8 +36,9 @@ namespace ChallengesWithTestsMark8.Tests
             // Check all letters
             foreach (char letter in nonLetters)
             {
+                              
                 // Act
-                bool actual = challenger.CharacterIsALetter(letter);
+                bool actual = challenger.CharacterIsALetter('c');
 
                 // Assert
                 Assert.False(actual);
@@ -52,13 +54,13 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new string[] { "a", "b", "c" }, false)]
         [InlineData(new string[] { "a", "b", "c", "d", "e" }, false)]
         // [InlineData(null, false)] // Assumption: array will not be null
-        public void CountOfElementsIsEven(string[] strings, bool expected)
+        public void CountOfElementsIsEven(string[] vals, bool expected)
         {
             // Arrange
             ChallengesSet02 challenger = new ChallengesSet02();
 
             // Act
-            bool actual = challenger.CountOfElementsIsEven(strings);
+            bool actual = challenger.CountofElementsIsEven(vals);
 
             // Assert
             Assert.Equal(expected, actual);
