@@ -60,7 +60,7 @@ namespace ChallengesWithTestsMark8.Tests
             ChallengesSet02 challenger = new ChallengesSet02();
 
             // Act
-            bool actual = challenger.CountofElementsIsEven(vals);
+            bool actual = challenger.CountOfElementsIsEven(vals);
 
             // Assert
             Assert.Equal(expected, actual);
@@ -242,13 +242,13 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(-1, 0)]
         [InlineData(-4, 0)]
         [InlineData(-1000, 0)]
-        public void CountOfPositiveOddsBelowNumber(int number, int expected)
+        public void CountOfPositiveOddsBelowNumber(long number, int expected)
         {
             // Arrange
             ChallengesSet02 challenger = new ChallengesSet02();
 
             // Act
-            double actual = challenger.CountOfPositiveOddsBelowNumber(number);
+            var actual = challenger.CountOfPositiveOddsBelowNumber(number);
 
             // Assert
             Assert.Equal(expected, actual);
