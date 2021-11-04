@@ -98,7 +98,7 @@ C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\b
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
-C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete

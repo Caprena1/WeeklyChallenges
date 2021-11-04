@@ -4,7 +4,6 @@ C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Deb
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
-C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs

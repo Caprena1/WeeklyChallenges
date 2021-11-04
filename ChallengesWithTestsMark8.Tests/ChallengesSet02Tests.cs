@@ -38,7 +38,7 @@ namespace ChallengesWithTestsMark8.Tests
             {
                               
                 // Act
-                bool actual = challenger.CharacterIsALetter('c');
+                bool actual = challenger.CharacterIsALetter(letter);
 
                 // Assert
                 Assert.False(actual);
