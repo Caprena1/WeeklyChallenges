@@ -11,3 +11,4 @@ C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Deb
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
 C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\Users\Caprena\Desktop\REPOS\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
